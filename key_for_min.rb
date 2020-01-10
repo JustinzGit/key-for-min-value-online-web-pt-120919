@@ -25,4 +25,4 @@ def key_for_min_value(name_hash)
   end 
 end
 
-minimum_value(ikea)
+key_for_min_value(ikea)
